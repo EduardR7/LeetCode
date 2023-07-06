@@ -1,6 +1,6 @@
 This site was built using [GitHub Pages](https://pages.github.com/).
-# LeetCode LeetCode, Top Interview Questions
-## Здесь собраны решения задач  Top Interview Questions, Array
+# LeetCode LeetCode, Top Interview Questions, Array
+## Здесь собраны решения задач по разделу массивы
 <a href="https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/">
     <img src="https://media.giphy.com/media/7nXMnkcsTi1wGtPNxT/giphy.gif" alt="drawing" width="100"/>
   </a>
