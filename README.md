@@ -2,7 +2,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 # LeetCode
 LeetCode Examples, Arrays
 <a href="https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/">
-    <img src="https://media.giphy.com/media/fp7q4wZXluqSEX4nGx/giphy.gif" alt="LinkedIn Badge"/>
+    <img src="https://media.giphy.com/media/lKV61GBbIt1W1t9E39/giphy.gif" alt="LinkedIn Badge"/>
   </a>
 
 # Проекты
