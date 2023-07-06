@@ -1,7 +1,7 @@
 This site was built using [GitHub Pages](https://pages.github.com/).
 # LeetCode Examples, Arrays
 <a href="https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/">
-    <img src="https://media.giphy.com/media/7nXMnkcsTi1wGtPNxT/giphy.gif" alt="drawing" width="200"/>
+    <img src="https://media.giphy.com/media/7nXMnkcsTi1wGtPNxT/giphy.gif" alt="drawing" width="100"/>
   </a>
 
 ## Здесь собраны решения задач в LeetCode, Top Interview Questions, Array
