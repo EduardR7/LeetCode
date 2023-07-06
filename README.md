@@ -17,9 +17,9 @@ LeetCode Examples
 This site was built using [GitHub Pages](https://pages.github.com/).
 # Проекты
 Здесь собраны решения задач в LeetCode, Раздел Top Interview Questions, Array
-| № | Проект | Описание | Стек |
+| № | Задача | Описание | Решение |
 | --- | --- | --- | --- |
-| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/962493886/) | Удаление дубликатов из  сортированного массива |
+| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/) | Удаление дубликатов из  сортированного массива | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/962493886/)
 | 2 | [Определение оптимального тарифа для телеком компании](https://github.com/EduardR7/YandexPracticum/blob/main/tariffs_recommendation/06_tariffs_recommendation.ipynb) | Прогнозирование оптимального перехода для клиентов оператора связи с архивными тарифами | Pandas, Matplotlib, NumPy, SciPy, Описательная статистика, A/B тесты |
 | 3 | [Прогнозирование оттока клиентов Банка](https://github.com/EduardR7/YandexPracticum/blob/main/churn_rate_predict/07_churn_rate_predict.ipynb) | На основе историческиих данных о клиентах банка определить вероятность ухода клиентов | Pandas, Sklearn, Matplotlib |
 | 4 | [Улучшение процесса обогащения золота](https://github.com/EduardR7/YandexPracticum/blob/main/tech_process/09-tech_process.ipynb) | Выбор лучшей модели для увеличения показателей технологического процесса обогащения золота | Python, Pandas, NumPy, SciPy, Sklearn, Matplotlib |
