@@ -1,7 +1,7 @@
 This site was built using [GitHub Pages](https://pages.github.com/).
 # LeetCode
 LeetCode Examples, Arrays
-<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/962493886/">
+<a href="https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/">
     <img src="https://media.giphy.com/media/fp7q4wZXluqSEX4nGx/giphy.gif" alt="LinkedIn Badge"/>
   </a>
 
