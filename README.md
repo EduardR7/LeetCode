@@ -19,4 +19,4 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 Здесь собраны решения задач в LeetCode, Раздел Top Interview Questions, Array
 | № | Задача | Описание | Решение |
 | --- | --- | --- | --- |
-| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/) | Удаление дубликатов из  сортированного массива | [Resolved](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/962493886/)
+| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/) | Удаление дубликатов из  сортированного массива | [[Resolved](https://media.giphy.com/media/ZD90vpv37ZCPwOG8he/giphy.gif)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/962493886/)
